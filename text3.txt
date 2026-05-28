@@ -1,0 +1,37 @@
+1. What is the difference between Univariate, Bivariate, and Multivariate analysis?
+Answer:-
+Univariate Analysis: Analysis of one variable.
+
+Bivariate Analysis: Relationship between two variables.
+
+Multivariate Analysis: Analysis of more than two variables together.
+
+2. How do you interpret a Correlation Heatmap?
+Answer:-
+A heatmap shows correlation values between variables:
+Close to +1 → strong positive relation
+Close to -1 → strong negative relation
+Close to 0 → weak relation
+
+3. What is the purpose of a Box Plot?
+Answer:-
+A box plot is used to:
+Show data distribution
+Detect outliers
+Display median and quartiles.
+
+4. How do you identify outliers visually?
+Answer:-
+Outliers are points far away from the normal distribution in:
+Box plots
+Scatter plots
+Histograms
+
+5. Why is EDA important before modeling?
+Answer:-
+EDA helps:
+Understand data
+Find missing values
+Detect outliers
+Discover patterns
+Improve model accuracy
